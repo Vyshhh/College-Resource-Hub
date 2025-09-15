@@ -1,23 +1,23 @@
-# 📚 College Resource Hub
+# College Resource Hub
 
 A web platform for students and administrators to securely manage and access study materials.  
 Students can upload, download, rate, and review resources, while administrators manage users and content.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔑 **Secure Authentication** – JWT-based login/register with role-based access (student/admin)  
-- 📂 **Resource Management** – Upload/download PDFs (notes, question papers, guides)  
-- ⭐ **Rating & Feedback** – Students can rate resources and leave reviews  
-- 📊 **Smart Dashboard** – Top rated, most downloaded, personalized recommendations  
-- 👨‍💼 **Admin Dashboard** – Manage users (promote/demote/deactivate), view stats, delete resources  
-- 📈 **Statistics** – Overview of users, resources, downloads, active users  
-- 🎨 **Responsive UI** – Gradient UI with animations, charts, dashboards  
+-  **Secure Authentication** – JWT-based login/register with role-based access (student/admin)  
+-  **Resource Management** – Upload/download PDFs (notes, question papers, guides)  
+-  **Rating & Feedback** – Students can rate resources and leave reviews  
+- **Smart Dashboard** – Top rated, most downloaded, personalized recommendations  
+-  **Admin Dashboard** – Manage users (promote/demote/deactivate), view stats, delete resources  
+-  **Statistics** – Overview of users, resources, downloads, active users  
+-  **Responsive UI** – Gradient UI with animations, charts, dashboards  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** React, Tailwind CSS, Vite, Recharts  
 **Backend:** Node.js, Express.js  
@@ -28,13 +28,17 @@ Students can upload, download, rate, and review resources, while administrators 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-> *(Add actual screenshots in repo `/screenshots/` and reference them here)*  
+- Login Page
+><img width="1908" height="948" alt="Screenshot 2025-09-15 112653" src="https://github.com/user-attachments/assets/8993d17f-cd81-4648-8503-f6b5baa690ff" />
+- Student Dashboard
+><img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/5abbffd3-800a-4d8b-90f6-9004940d60a6" />
+- Admin Dashboard
+> <img width="1919" height="1009" alt="Screenshot 2025-09-15 112542" src="https://github.com/user-attachments/assets/157e663b-7fdc-4c4e-9998-748483c29dcb" />
+- Stats
+> <img width="1914" height="971" alt="Screenshot 2025-09-15 120202" src="https://github.com/user-attachments/assets/d1205150-cbde-4f74-8b1a-d21265fb76b1" />
 
-- Login Page  
-- Student Dashboard  
-- Admin Dashboard  
 
 ---
 
@@ -77,11 +81,11 @@ Students can upload, download, rate, and review resources, while administrators 
    npm run dev
    ```
 
-   Runs on 👉 [http://localhost:5173](http://localhost:5173)
+   Runs on  [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create `.env` in `server/`:
 
@@ -122,7 +126,7 @@ college-resource-hub/
 
 ---
 
-## 👨‍💻 Usage Guide
+## Usage Guide
 
 **Students:**
 - Register/Login  
@@ -143,10 +147,4 @@ See 👉 [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md)
 
 ---
 
-## 🧑‍🤝‍🧑 Contributors
-- [Your Name] – Full Stack Developer  
-
----
-
-## 📜 License
-MIT License.  
+ 
